@@ -23,7 +23,7 @@ export const userRoleEnum = pgEnum('user_role', [
 ]);
 export const userGender = pgEnum('user_gender', ['male', 'female']);
 export const userTable = pgTable(
-  'user',
+  'users',
   {
     id: uuid('id')
       .primaryKey()
