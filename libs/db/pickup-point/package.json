@@ -61,7 +61,7 @@
           "push": true,
           "metadata": {
             "images": [
-              "ghcr.io/nochlezhka/Bot-for-Delivery/pickup-point-db"
+              "ghcr.io/aspirisha/Bot-for-Delivery/pickup-point-db"
             ],
             "tags": [
               "type=ref,event=branch"

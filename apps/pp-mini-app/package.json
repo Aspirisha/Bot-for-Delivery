@@ -13,7 +13,7 @@
           "push": true,
           "metadata": {
             "images": [
-              "ghcr.io/nochlezhka/Bot-for-Delivery/pp-mini-app"
+              "ghcr.io/aspirisha/Bot-for-Delivery/pp-mini-app"
             ],
             "tags": [
               "type=ref,event=branch"

@@ -50,7 +50,7 @@
           "push": true,
           "metadata": {
             "images": [
-              "ghcr.io/nochlezhka/Bot-for-Delivery/pp-bot"
+              "ghcr.io/aspirisha/Bot-for-Delivery/pp-bot"
             ],
             "tags": [
               "type=ref,event=branch"
