@@ -9,7 +9,6 @@
         "dependsOn": ["build"],
         "executor": "@nx-tools/nx-container:build",
         "options": {
-          "load": true,
           "push": true,
           "metadata": {
             "images": [
